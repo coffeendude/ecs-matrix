@@ -1,1 +1,0 @@
-# ipfs-cids-go-scraper
